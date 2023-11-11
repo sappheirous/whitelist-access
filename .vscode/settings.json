@@ -1,0 +1,4 @@
+{
+  "amxxpawn.compiler.outputPath": "${workspaceRoot}/addons/amxmodx/plugins",
+  "amxxpawn.compiler.outputType": "path"
+}
